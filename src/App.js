@@ -7,6 +7,7 @@ import About from './pages/About';
 import Products from "./pages/Products";
 import Contact from './pages/Contact';
 import Services from "./pages/Services";
+import Services from './pages/Services';
 
 import AOS from 'aos';
 import 'aos/dist/aos.css';
